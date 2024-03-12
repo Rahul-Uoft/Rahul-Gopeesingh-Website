@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "a_quarto_website"
+  title: "Rahul Gopeesingh"
   navbar:
     left:
       - href: index.qmd
